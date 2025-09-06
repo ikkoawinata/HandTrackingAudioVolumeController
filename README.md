@@ -26,4 +26,6 @@ Tujuannya? Biar ngatur volume jadi lebih gampang, hands-free, dan keliatan kayak
 
 --------------------------------------------------------
 ![Demo Hand Tracking](img/1.png)
+![Demo Hand Tracking](img/2.png)
+![Demo Hand Tracking](img/3.png)
  
