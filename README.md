@@ -7,5 +7,11 @@ Proyek ini membangun model _machine learning_ yang dapat memprediksi biaya pembe
 --------------------------------------------------
 
 ## Apa sih ini?
-### **Latar Belakang**
+Proyek ini pake kombinasi:
+
+OpenCV → buat nangkep kamera real-time 🎥
+MediaPipe Hands → deteksi tangan & landmark 🖐️
+PyCaw → langsung nyambung ke sistem audio Windows 🔊
+
+Tujuannya? Biar ngatur volume jadi lebih gampang, hands-free, dan keliatan kayak hacker di film 🤭.
  
