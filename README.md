@@ -25,8 +25,9 @@ Tujuannya? Biar ngatur volume jadi lebih gampang, hands-free, dan keliatan kayak
 
 
 --------------------------------------------------------
-<img src="img/1.png" alt="Demo Hand Tracking" width="400"/>
-<img src="img/2.png" alt="Demo Hand Tracking" width="400"/>
-<img src="img/3.png" alt="Demo Hand Tracking" width="400"/>
+<p align="center">
+  <img src="img/1.png" width="250"/>
+  <img src="img/2.png" width="250"/>
+  <img src="img/3.png" width="250"/>
+</p>
 
- 
