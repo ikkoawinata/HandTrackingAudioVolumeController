@@ -22,4 +22,8 @@ Tujuannya? Biar ngatur volume jadi lebih gampang, hands-free, dan keliatan kayak
 3. Jarak kecil → volume kecil (mute kalau rapet banget).
 4. Jarak jauh → volume gede.
 5. Semua realtime, jadi kayak magic.
+
+
+--------------------------------------------------------
+![Demo Hand Tracking](img/1.png)
  
