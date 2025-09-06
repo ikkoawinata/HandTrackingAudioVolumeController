@@ -18,7 +18,7 @@ Tujuannya? Biar ngatur volume jadi lebih gampang, hands-free, dan keliatan kayak
 ---------------------------------------------------
 🔧 Cara Kerjanya
 1. Kamera nyala → tangan kamu dideteksi.
-2. Sistem ngecek jarak antara jempol (id 4) & telunjuk (id 8).
+2. Sistem ngecek jarak antara jempol & telunjuk.
 3. Jarak kecil → volume kecil (mute kalau rapet banget).
 4. Jarak jauh → volume gede.
 5. Semua realtime, jadi kayak magic.
