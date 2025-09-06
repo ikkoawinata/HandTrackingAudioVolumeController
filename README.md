@@ -7,7 +7,7 @@ Proyek ini membangun model _machine learning_ yang dapat memprediksi biaya pembe
 --------------------------------------------------
 
 ## Apa sih ini?
-Proyek ini pake kombinasi:
+Proyek ini pake Library :
 - OpenCV → buat nangkep kamera real-time 🎥
 - MediaPipe Hands → deteksi tangan & landmark 🖐️
 - PyCaw → langsung nyambung ke sistem audio Windows 🔊
